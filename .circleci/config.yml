@@ -23,3 +23,7 @@ jobs:
 
       # specify any bash command here prefixed with `run: `
       - run: go test -v
+
+    branches:
+      ignore:
+        - dfksldkfhskljdhgksdfg
